@@ -1,7 +1,7 @@
 ## HOLA A TODOS👋
 
 <div id="header" align="center">
-  <img decoding="async" src="JOSÉ SÁNCHEZ.jng" width="800"/>
+  <img decoding="async" src="JOSÉ SÁNCHEZ.jpg" width="800"/>
 </div>
 
 ### :handshake: PUEDES CONTACTARME POR: [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/02sanchezajose/) [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsanchezaguilar.69@hotmail.com)](mailto:jsanchezaguilar.69@hotmail.com)
